@@ -1,0 +1,26 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package Language_fundamentals.Home_work1;
+
+public class Q2 {
+    public Q2() {
+    }
+
+    public static void main(String[] var0) {
+        String var1 = "KARTHIK";
+        int var2 = 106122065;
+        byte var3 = 23;
+        byte var4 = 68;
+        char var5 = 'C';
+        boolean var6 = true;
+        System.out.println("studentName" + var1);
+        System.out.println("rollNumber" + var2);
+        System.out.println("age:" + var3);
+        System.out.println("marks :" + var4);
+        System.out.println("grade:" + var5);
+        System.out.println("Pass Status" + var6);
+    }
+}
