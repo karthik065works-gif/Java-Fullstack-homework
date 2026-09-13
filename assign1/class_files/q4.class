@@ -1,0 +1,24 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package Language_fundamentals.Home_work1;
+
+public class Q4 {
+    public Q4() {
+    }
+
+    public static void main(String[] var0) {
+        String var1 = "Karthik";
+        int var2 = 90119818;
+        int var3 = 2000000;
+        String var4 = "SDG";
+        boolean var5 = false;
+        System.out.println("Employee:" + var1);
+        System.out.println("Employee ID:" + var2);
+        System.out.println("Salary:" + var3);
+        System.out.println("department:" + var4);
+        System.out.println("employment-status:" + var5);
+    }
+}
