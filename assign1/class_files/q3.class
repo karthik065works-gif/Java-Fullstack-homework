@@ -1,0 +1,22 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package Language_fundamentals.Home_work1;
+
+public class Q3 {
+    public Q3() {
+    }
+
+    public static void main(String[] var0) {
+        String var1 = "Backpack";
+        short var2 = 2000;
+        byte var3 = 2;
+        boolean var4 = true;
+        System.out.println("Product" + var1);
+        System.out.println("Price : " + var2);
+        System.out.println("Quantity:" + var3);
+        System.out.println("availability:" + var4);
+    }
+}
