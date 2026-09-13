@@ -1,0 +1,22 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by Fernflower decompiler)
+//
+
+package Language_fundamentals.Home_work1;
+
+public class Q1 {
+    public Q1() {
+    }
+
+    public static void main(String[] var0) {
+        String var1 = "Karthik";
+        byte var2 = 23;
+        String var3 = "Kolkata";
+        String var4 = "Btech";
+        System.out.println("Name:" + var1);
+        System.out.println("Age:" + var2);
+        System.out.println("City:" + var3);
+        System.out.println("Course:" + var4);
+    }
+}
